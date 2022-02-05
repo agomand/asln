@@ -5,5 +5,9 @@
 header
 {
   text-align: center;
-  font: 2em normal
+  font: 1.5em normal
+}
+#conteneur
+{
+  display: flex
 }
