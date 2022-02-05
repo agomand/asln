@@ -9,7 +9,8 @@ header
 }
 #conteneur
 {
-  display: flex
+  display: flex;
+  padding: 12px
 }
 nav
 {
