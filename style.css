@@ -1,6 +1,7 @@
 *
 {
-  font-family: "Times New Roman", Arial, serif
+  font-family: "Times New Roman", Arial, serif;
+  padding: 12px
 }
 header
 {
@@ -9,8 +10,7 @@ header
 }
 #conteneur
 {
-  display: flex;
-  padding: 12px
+  display: flex
 }
 nav
 {
