@@ -15,7 +15,7 @@ nav
 {
   border-right: 2px solid black
 }
-img
+.flottante
 {
-  text-align: center
+  float: center
 }
