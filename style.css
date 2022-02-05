@@ -2,7 +2,8 @@
 {
   font-family: "Times New Roman", Arial, serif
 }
-h1
+header
 {
-  color: gray
+  text-align: center;
+  font: 2em normal
 }
