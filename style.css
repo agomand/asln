@@ -1,7 +1,12 @@
 *
 {
-  font-family: "Times New Roman", Arial, serif;
-  padding: 12px
+  font-family: sans-serif, "Times New Roman", Arial
+}
+body
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1280px
 }
 header
 {
@@ -14,10 +19,35 @@ header
 }
 nav
 {
-  font-size: 1.5em;
-  border-right: 2px solid black
+  font: 1.2em normal;
+  padding: 12px;
+  background-color: #eeeeee
+}
+section
+{
+  padding: 12px;
+  text-align: justify;
+  background: url("fond.jpg")
+}
+p
+{
+  word-wrap: break-word
+}
+strong
+{
+  font-weight: bold
 }
 .flottante
 {
-  float: center
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+a
+{
+  text-decoration: none
+}
+li
+{
+  list-style-type: square
 }
