@@ -27,7 +27,8 @@ section
 {
   padding: 12px;
   text-align: justify;
-  background: url("fond.jpg")
+  background: url("fond.jpg");
+  margin-left: 12px
 }
 p
 {
