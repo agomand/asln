@@ -11,7 +11,8 @@ body
 header
 {
   text-align: center;
-  font: 2em normal
+  font: 2em normal;
+  margin-bottom: 12px
 }
 #conteneur
 {
