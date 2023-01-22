@@ -11,8 +11,7 @@ body
 header
 {
   text-align: center;
-  font: 2em normal;
-  margin-bottom: 12px
+  font: 2em normal
 }
 #conteneur
 {
@@ -29,6 +28,7 @@ section
   padding: 12px;
   text-align: justify;
   background: url("fond.jpg");
+  margin-bottom: 12px;
   margin-left: 12px
 }
 p
